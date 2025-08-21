@@ -1,1 +1,1 @@
-console.log("mdi:home:v1.0.0");
+console.log("mdi:home:v1.0.1");
